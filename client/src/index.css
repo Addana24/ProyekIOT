@@ -119,9 +119,9 @@
 }
 
 .data-table-container::-webkit-scrollbar-thumb {
-  @apply bg-muted-foreground/30 rounded;
+  @apply bg-muted-foreground opacity-30 rounded;
 }
 
 .data-table-container::-webkit-scrollbar-thumb:hover {
-  @apply bg-muted-foreground/50;
+  @apply bg-muted-foreground opacity-50;
 }
