@@ -39,7 +39,7 @@ This is a full-stack IoT sensor monitoring application built with React (Vite), 
 
 ### MQTT Service
 - Connects to external MQTT broker (mqtt.revolusi-it.com)
-- Handles sensor data from device G.231.22.0002
+- Handles sensor data from device G.231.22.0029
 - Processes DHT11 temperature, LM35 temperature, and LED status
 - Automatic reconnection and error handling
 
